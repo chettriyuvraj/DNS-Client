@@ -2,7 +2,7 @@
 
 A simple client to query DNS servers and parse their response.
 
-As far as protocols go, DNS is pretty clean. This client is not to demonstrate any network wizardry, but just an assurance that I can fiddle around with network protocols and find my way
+As far as protocols go, DNS is pretty clean. This client is not to demonstrate any network wizardry, but just an assurance that I can fiddle with network protocols and find my way
 around :)
 
 - Since this was quite long ago, I am too lazy to implement the command line. If you want to play around with the query, go to the main function in _dns.go_ and manually modify the hex DNS query.
