@@ -8,6 +8,7 @@ around :)
 - Since this was quite long ago, I am too lazy to implement the command line. If you want to play around with the query, go to the main function in _dns.go_ and manually modify the hex DNS query.
 - [Original repository folder](https://github.com/bradfield-csi-5/chettriyuvraj/tree/main/BradfieldCSI/Networks/Prework-2-DNS) if you want to have a look at the commit history.
 - The default query is for _example.com_
+- Google's DNS server (8.8.8.8) is the one being queried.
 
 ## Usage
 
